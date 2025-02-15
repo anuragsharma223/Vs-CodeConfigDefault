@@ -1,0 +1,29 @@
+{
+  "editor.formatOnSave": true,
+  "editor.suggest.insertMode": "replace",
+  "terminal.integrated.fontFamily": "MesloLGS NF",
+  "editor.linkedEditing": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "window.zoomLevel": 1,
+  "launch": {},
+  "[json]": {},
+  "workbench.statusBar.visible": true,
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "August - Rosé Pine",
+  "update.showReleaseNotes": true,
+  "editor.lineNumbers": "relative",
+  "editor.fontFamily": "Fira Code",
+  "python.createEnvironment.trigger": "off",
+  "zenMode.hideLineNumbers": false,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "window.customTitleBarVisibility": "windowed",
+  "window.menuBarVisibility": "classic",
+  "workbench.activityBar.location": "default",
+  "vim.normalModeKeyBindings": [],
+  "vim.normalModeKeyBindingsNonRecursive": []
+}
